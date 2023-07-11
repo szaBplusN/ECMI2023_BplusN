@@ -13,4 +13,5 @@ https://towardsdatascience.com/what-are-intrinsic-and-extrinsic-camera-parameter
 
 Ideas for the callibration:
 https://www.intel.com/content/dam/support/us/en/documents/emerging-technologies/intel-realsense-technology/RealSense_D400_Dyn_Calib_User_Guide.pdf
+https://www.intel.com/content/dam/support/us/en/documents/emerging-technologies/intel-realsense-technology/print-target-fixed-width.pdf
 
